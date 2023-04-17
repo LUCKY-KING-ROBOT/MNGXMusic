@@ -83,7 +83,7 @@ async def start(_, message: Message):
                 [
                     InlineKeyboardButton(
                         text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁",
-                        url="https://github.com/Abishnoi69/AsuXMusic",
+                        url="https://t.me/DX_LUCKY_143",
                     )
                 ],
             ]
@@ -95,13 +95,13 @@ async def start(_, message: Message):
 @Abishnoi.on_message(filters.command(["repo", "source"]))
 async def help(client: Abishnoi, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/56557bd94afbe895ae483.jpg",
+        photo=f"https://te.legra.ph/file/7cb03a56a4e5e100bc658.png",
         caption=f"""ʜᴇʀᴇ ɪs ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ғᴏʀᴋ ᴀɴᴅ ɢɪᴠᴇ sᴛᴀʀs ✨""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        " ʀᴇᴘᴏ ⚒️", url=f"https://github.com/Abishnoi69/AsuXMusic"
+                        " ʀᴇᴘᴏ ⚒️", url=f"https://t.me/DX_LUCKY_143"
                     )
                 ]
             ]
