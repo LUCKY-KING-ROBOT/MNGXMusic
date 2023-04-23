@@ -40,10 +40,10 @@ async def start(client: Abishnoi, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🥀 ɢʀᴏᴜᴘ", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "『🚀 ɢʀᴏᴜᴩ 🚀』", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "🏡 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "『💥 ᴄʜᴀɴɴᴇʟ 💥』", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ]
             ]
