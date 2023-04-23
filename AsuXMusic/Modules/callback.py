@@ -101,21 +101,21 @@ async def cbstart(_, query: CallbackQuery):
                     ),
                 ],
                 [
-                    InlineKeyboardButton(text="❄ ʜᴇʟᴩ ❄", callback_data="cbbasic"),
-                    InlineKeyboardButton(text="🥀 ᴏᴡɴᴇʀ 🥀", user_id=F_OWNER),
+                    InlineKeyboardButton(text="『❄ ʜᴇʟᴩ ❄』", callback_data="cbbasic"),
+                    InlineKeyboardButton(text="『🥀 ᴏᴡɴᴇʀ 🥀』", user_id=F_OWNER),
                 ],
                 [
                     InlineKeyboardButton(
-                        text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=f"https://t.me/{GROUP_SUPPORT}"
+                        text="『✨ sᴜᴩᴩᴏʀᴛ ✨』", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        text="💘 ᴄʜᴀɴɴᴇʟ 💘", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        text="『💘 ᴄʜᴀɴɴᴇʟ 💘』", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
                         text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁",
-                        url="https://github.com/Abishnoi69/AsuXMusic",
+                        url="https://github.com",
                     )
                 ],
             ]
