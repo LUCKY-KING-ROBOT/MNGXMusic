@@ -160,7 +160,7 @@ async def play(c: Abishnoi, m: Message):
                     [
                         [
                             InlineKeyboardButton(
-                                "• sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/AbishnoiMF"
+                                "• sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/DXinfo143"
                             ),
                             InlineKeyboardButton("• ᴄʟᴏsᴇ", callback_data="cls"),
                         ]
