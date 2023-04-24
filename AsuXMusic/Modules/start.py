@@ -40,10 +40,10 @@ async def start(client: Abishnoi, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "『🚀 ɢʀᴏᴜᴩ 🚀』", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "『🚀 ɢʀᴏᴜᴩ 🚀』", url=f"https://t.me/DXinfo143"
                     ),
                     InlineKeyboardButton(
-                        "『💥 ᴄʜᴀɴɴᴇʟ 💥』", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "『💥 ᴄʜᴀɴɴᴇʟ 💥』", url=f"https://t.me/DX_info"
                     ),
                 ]
             ]
@@ -74,10 +74,10 @@ async def start(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=f"https://t.me/{GROUP_SUPPORT}"
+                        text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=f"https://t.me/DXinfo143"
                     ),
                     InlineKeyboardButton(
-                        text="💘 ᴄʜᴀɴɴᴇʟ 💘", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        text="💘 ᴄʜᴀɴɴᴇʟ 💘", url=f"https://t.me/DX_info"
                     ),
                 ],
                 [
